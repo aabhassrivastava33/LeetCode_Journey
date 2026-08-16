@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1763-longest-nice-substring](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 ## Binary Search
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [1763-longest-nice-substring](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
