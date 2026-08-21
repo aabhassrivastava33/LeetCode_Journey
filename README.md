@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [1763-longest-nice-substring](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
