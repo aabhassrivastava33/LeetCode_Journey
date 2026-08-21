@@ -1,41 +1,42 @@
 class Solution {
-    bool ispossible(vector<int>& position,int mid, int m)
-    {
-        int ball=1;
-        int pos=position[0];
-        for (int i =1 ;i<position.size();i++)
-      {
-          if (position[i]-pos>=mid)
-          {
-              ball++;
-              pos = position[i];
-              
-          }
-          if(ball==m)
-          return true;
-      }
-    return false;
-    }
 public:
-    int maxDistance(vector<int>& position, int m) {
-    sort(position.begin(),position.end());
-    int n=position.size();
-    int s=1;
-    int e=position[n-1]-position[0];
-    int ans=-1;
-    while(s<=e)
+    bool ispossible(vector<int>& position, int m , int mid)
     {
-        int mid=(s+e)/2;
-        if(ispossible(position,mid,m))
+        int ball = 1;
+        int pos=position[0];
+        for(int i=0;i<position.size();i++)
         {
-            ans=mid;
-            s=mid+1;
+            if(position[i]-pos>=mid)
+            {
+            ball++;
+            pos=position[i];
+            }
+            if(ball==m)
+            {
+                return true;
+            }
         }
-        else
-        {
-           e=mid-1;
-        }
+        return false;
     }
+    int maxDistance(vector<int>& position, int m) {
+        sort(position.begin(),position.end());
+        int n = position.size();
+        int start = 1;
+        int end = position[n-1]-position[0];
+        int ans = -1;
+        while(start<=end)
+        {
+            int mid=start+(end-start)/2;
+            if (ispossible(position,m,mid))
+            {
+                ans=mid;
+                start=mid+1;
+            }
+            else
+            {
+                end=mid-1;
+            }
+        }
     return ans;
     }
 };
