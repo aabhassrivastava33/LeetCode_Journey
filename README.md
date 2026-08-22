@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
