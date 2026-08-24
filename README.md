@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [1763-longest-nice-substring](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
