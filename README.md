@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1763-longest-nice-substring) |
+## Greedy
+|  |
+| ------- |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
