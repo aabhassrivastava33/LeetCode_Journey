@@ -80,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
