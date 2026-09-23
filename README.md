@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
