@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0216-combination-sum-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0344-reverse-string) |
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0739-daily-temperatures) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
