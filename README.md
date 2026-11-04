@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
