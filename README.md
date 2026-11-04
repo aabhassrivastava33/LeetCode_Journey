@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0509-fibonacci-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
