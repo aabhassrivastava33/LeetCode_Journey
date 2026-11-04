@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/1672-richest-customer-wealth) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/0509-fibonacci-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aabhassrivastava33/LeetCode-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
